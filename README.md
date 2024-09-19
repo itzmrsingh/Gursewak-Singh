@@ -8,3 +8,4 @@
 -& ()
 -* (astriek)
 
+[WIKI PAGE](https://en.wikipedia.org/wiki/Cristiano_Ronaldo)
