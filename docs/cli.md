@@ -9,4 +9,4 @@ mkdir	Creates a new directory (folder).
 rmdir	Remove a directory (folder).
 clear	Clears the CLI window.
 exit	Closes the CLI window.
-man command	Shows the manual for a given command.
+man command	Shows the manual for a given command. 
